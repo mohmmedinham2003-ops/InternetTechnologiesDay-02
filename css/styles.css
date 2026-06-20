@@ -8,13 +8,20 @@ table{
     color: rgb(240, 229, 229);
     background-color: rgb(18, 100, 46);
     border: 2px solid black;
+    padding-right: 100px;
+    margin-right: 500px;
 
 
 }
 
 .tablemenu{
-    color: black;
-    background-color: brown;
+    color: rgb(247, 244, 244);
+    background-color: rgb(12, 42, 70);1
+}
+
+.poductimg{
+
+
 }
 
 *{
