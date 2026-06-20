@@ -8,8 +8,6 @@ table{
     color: rgb(240, 229, 229);
     background-color: rgb(18, 100, 46);
     border: 2px solid black;
-    padding-right: 100px;
-    margin-right: 500px;
 
 
 }
@@ -29,7 +27,7 @@ table{
 }
 
 body{
-    background-image:url(../img/today.jpg) ;
+    background-image:url(../img/bgimage.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
